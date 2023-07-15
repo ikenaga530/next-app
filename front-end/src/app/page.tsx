@@ -1,5 +1,5 @@
-import CommonHeader from "@/components/header/header";
-import Timeline from "@/components/timeline/timeline";
+import CommonHeader from "@/components/header";
+import Timeline from "@/components/timeline";
 
 export default function Home() {
   return (
